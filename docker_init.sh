@@ -42,7 +42,7 @@ apt-get update -y
 apt-get install -y docker-ce docker-ce-cli containerd.io
 
 #Test installation
-echo "Run 'sudo docker run hello-world' to test docker installtion"
+echo "Run 'sudo docker run hello-world' to test docker installtion'
 
 #Add to right group
 echo "To avoid having to type sudo before every docker command, run: "
